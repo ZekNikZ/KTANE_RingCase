@@ -13,12 +13,12 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   id: RingCasesMod
   title: Ring Cases
-  description: 'Ring cases! Inspired by Pruz.
+  description: 'Ring cases! Inspired by Pruz. Thanks to ashthebash for the foundation.
 
 
     Big case: 81 modules
 
     Small case: 79 modules'
-  version: 1.0.1
+  version: 1.0.2
   outputFolder: build
   previewImage: {fileID: 2800000, guid: 50a53d28e6ae099409c8dd7e8fb4ad58, type: 3}
